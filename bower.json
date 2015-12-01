@@ -18,6 +18,7 @@
   "dependencies": {
     "bootstrap": "~3.3.6",
     "jquery": "~2.1.4",
-    "seajs": "~3.0.0"
+    "seajs": "~3.0.0",
+    "fullpage.js": "~2.7.4"
   }
 }
