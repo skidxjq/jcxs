@@ -1,0 +1,146 @@
+[
+  {
+    "id":1,
+    "name":"刘恒",
+    "school":"电工学院",
+    "path":"images/ee.png",
+    "gender":"male",
+    "order":6
+
+  },{
+  "id":2,
+  "name":"胡剑琦",
+  "school":"光电学院",
+  "path":"images/opoto.png",
+  "gender":"male",
+  "order":9
+
+},{
+  "id":3,
+  "name":"梁栋",
+  "school":"航空航天学院",
+  "path":"images/hangkong.png",
+  "gender":"male",
+  "order":11
+
+},{
+  "id":4,
+  "name":"史改革",
+  "school":"机电学院",
+  "path":"images/jixie.png",
+  "gender":"male",
+  "order":5
+
+},{
+  "id":5,
+  "name":"刘祥根",
+  "school":"计算机学院",
+  "path":"images/cs.png",
+  "gender":"male",
+  "order":6
+
+
+},{
+  "id":6,
+  "name":"李姚毅然",
+  "school":"经管学院",
+  "path":"images/economy.png",
+  "gender":"male",
+  "order":7
+
+
+},{
+  "id":7,
+  "name":"李云",
+  "school":"能源学院",
+  "path":"images/power.png",
+  "gender":"male",
+  "order":7
+
+},{
+  "id":8,
+  "name":"文克春",
+  "school":"生命学院",
+  "path":"images/life.png",
+  "gender":"male",
+
+  "order":4
+
+},{
+  "id":9,
+  "name":"王吉",
+  "school":"数学学院",
+  "path":"images/math.png",
+  "gender":"male",
+  "order":4
+
+},{
+  "id":10,
+  "name":"朱清",
+  "school":"通信学院",
+  "path":"images/telecom.png",
+  "gender":"female",
+  "order":6
+},{
+  "id":11,
+  "name":"刘路雅惠",
+  "school":"外国语学院",
+  "path":"images/english.png",
+  "gender":"female",
+  "order":6
+},{
+  "id":12,
+  "name":"郑子隆",
+  "school":"微固学院",
+  "path":"images/micro.png",
+  "gender":"male",
+  "order":8
+},{
+  "id":13,
+  "name":"田曦",
+  "school":"物电学院",
+  "path":"images/physic.png",
+  "gender":"male",
+  "order":5
+},{
+  "id":14,
+  "name":"刘昆",
+  "school":"信软学院",
+  "path":"images/info.png",
+  "gender":"male",
+  "order":6
+
+},{
+  "id":15,
+  "name":"李思达",
+  "school":"英才学院",
+  "path":"images/talents.png",
+  "gender":"male",
+  "order":7
+
+},{
+  "id":16,
+  "name":"胡倩倩",
+  "school":"政管学院",
+  "path":"images/politics.png",
+  "gender":"female",
+  "order":9
+
+}
+,{
+  "id":17,
+  "name":"乔晓慧",
+  "school":"资环学院",
+  "path":"images/resources.png",
+  "gender":"female",
+  "order":6
+
+},{
+  "id":18,
+  "name":"刘文辉",
+  "school":"自动化学院",
+  "path":"images/automatic.png",
+  "gender":"male",
+  "order":6
+}
+]

@@ -1,6 +1,6 @@
 {
-  "name": "uestc",
-  "homepage": "https://github.com/skidxjq/jcxs",
+  "name": "angular-city-selector-directive",
+  "homepage": "https://github.com/skidxjq/angular-city-selector-directive",
   "authors": [
     "skidxjq <skidxjq@126.com>"
   ],
@@ -16,9 +16,7 @@
     "tests"
   ],
   "dependencies": {
-    "bootstrap": "~3.3.6",
-    "jquery": "~2.1.4",
-    "seajs": "~3.0.0",
-    "fullpage.js": "~2.7.4"
+    "bootstrap": "~3.3.5",
+    "angular": "angularjs#~1.4.7"
   }
 }

@@ -1,0 +1,44 @@
+.bg-black{
+    background-color: #050505;
+}
+
+#section0{
+
+    /*background-image: url("./images/background.jpg");*/
+    padding: 0 0 0 0;
+    position:relative;
+}
+html,body{
+    height:100%;
+}
+
+.candidate{
+    /*width:100%;*/
+    /*height:100%;*/
+    /*background-color:#d7e0e5;*/
+}
+
+.name-candidate{
+    font-size:0.8em;
+}
+.school-candidate{
+    font-size:0.9em;
+}
+.img-candidate{
+    width:100%;
+    height:100%;
+    background-color:#d7e0e5;
+
+}
+.candidate-male:before{
+    content:"♂";
+    color:rgba(0,55,117,1);
+    font-size:2em;
+    font-weight:bold
+}
+.candidate-female:before{
+    content:"♀";
+    color:#ff5380;
+    font-size:2em;
+    font-weight:bold
+}

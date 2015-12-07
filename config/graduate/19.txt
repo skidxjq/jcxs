@@ -1,0 +1,52 @@
+<br/>
+<p style="text-align: left; line-height: 150%;">
+    <span>&nbsp;　　</span>十分休闲的衣着，总是擦得发亮的银框眼镜，一个背着斜挎包的身影经常穿梭在实验室与图书馆之间。他是付澍，通信抗干扰国家级重点实验室通信与信息系统专业<span>2012</span>级的博士研究生。
+</p>
+<p style="text-align: justify;text-indent: 32px;line-height: 150%">
+    <span>2015</span>年中旬，付澍的最新研究成果“<span>Achieving Joint User Scheduling and Power Allocation via Geometric Programming</span>”以第一作者被<span>IEEE</span>汇刊<span>JCR</span>分区二区的<span><a href="http://dblp.uni-trier.de/db/journals/tvt/tvt64.html#LiangFJ15">IEEE Trans. Vehicular Technology</a></span><span><span style="font-family:宋体">（<span>TVT</span>）</span></span>录用，这意味着他在离通信网络跨网络能效方向的研究上又更近了一步。
+</p>
+<p style="text-align: justify;line-height: 150%">
+    　　这篇论文从投稿到最终录用仅历时三个半月，这在<span>IEEE Trans.</span>通信系列的期刊中是极少出现的情况。<span>TVT</span>的副主编<span>Lian Zhao</span>评价道，“<span>The reviewers agree the authors</span>’<span> contributions in this paper, and the theoretical contribution of the paper is rather significant</span>…” 付澍在这项成果中成功的利用几何规划的方法解决了无线通信中经典难题“无线网络中联合调度及功率分配的最优化问题”。文章成果为该方向上的研究作出了里程碑式的贡献。
+</p>
+<h2 style="text-align: center;line-height: 150%">
+    <strong><span style="font-family:宋体">初生牛犊，敢于挑战技术上的陈规</span></strong>
+</h2>
+<p style="text-indent: 28px;line-height: 150%">
+    无线通信的最大困扰来自于如何减弱无线环境中接收用户所受到的干扰强度。付澍与“抗干扰”的缘分可以追溯到他研一时，当时正值无线通信<span>4G</span>研究如火如荼之时，充满求知欲的他即开始了对<span>4G</span>物理层的研究。<span>2012</span>年进入通信抗干扰实验室后，对无线网络已经有扎实积累的他更是如鱼得水，在导师文红老师的详尽指导下，他对<span>LTE-A</span>中的<span>CoMP</span>技术展开了更为深入的调研和研究。团队里学术研究的气氛非常的热烈，师徒之间时常会为研究中的某个问题或某个想法而争执到面红耳赤，团队里的师生长时间的一起攻关学术难题，连中午在食堂里吃饭时谈论的话题也离不开学术研究。实验室内这种浓郁的学术氛围和团队积极向上的进取精神在付澍身上留下了深刻的烙印。“他经常会有一些新颖的想法冒出来，而且非常的刻苦，日夜不辍的学术研究是他的家常便饭”，文红教授这样评价道自己的爱徒。通过严谨的学术调研和理论研究，付澍发现当时<span>CoMP</span>技术所采用的集中式静态簇管理技术并不能充分利用无线空域提升无线容量，然而分布式的动态簇方式由于其开销负荷等原因业界并不看好。因此他决心设计出一套从理论到实际都能奏效的动态簇管理方案。
+</p>
+<p style="text-indent: 28px;line-height: 150%">
+    当然仅仅只有想法是远远不够的，他继续日以继夜的反复理论推导与方案设计，白天和导师还有同学反复讨论，晚上继续在实验室做仿真实验到深夜。天道酬勤，随着研究的深入，付澍的思路也越来越活跃对这个问题的认识也越来越深刻。从方案设计到性能仿真实验，仅用了半年不到的时间他就成功实现了<span>CoMP</span>中的动态簇方案，该方案无论是从信令开销角度还是对无线系统的容量提升都优于已有的方案。新的方案得到了导师文红教授的肯定和赏识，这项成果在他博一时即发表在了<span>IEEE</span><span>汇刊中<span>JCR</span>分区二区的无线通信领域顶级刊物</span><a name="OLE_LINK8" href="http://"></a><a name="OLE_LINK7" href="http://"><span>IEEE Trans. Wireless Communication</span></a><span>s</span>（<span>TWC</span>）上，而付澍收获的除了论文，更多的是学术研究的信心，对挖掘自身潜力的渴望与深刻感受到与老师同学们学术交流的乐趣所在。
+</p>
+<h2 style="text-align: center;line-height: 150%">
+    <strong><span style="font-family:宋体">再接再厉，探寻更为广阔的学术视野</span></strong>
+</h2>
+<p style="text-indent: 28px;line-height: 150%">
+    博士二年级，付澍在一次会议上与一位做网络层的国际知名教授交流，短暂的交流使他敏锐的感受到无线通信的研究不能单纯的只利用某几种<span>QoS</span>标准来评判，而应该有一种更为宏观的视野，从一个更高的层面来评判某种技术的性能。他的这一想法立即得到了导师的支持，通过大量的文献阅读和学术讨论，付澍意识到通信系统中有线网络与无线网络之间并不是独立的关系，两者之间经常会相互影响，但学界的研究通常是指针对某一个网络的一个具体问题去进行分析。所以具体算法性能的评判标准往往显得过于单一。付澍试图从跨网络的方向去寻找一种更为合适的网络设计方案。从无线领域的“抗干扰”到有线领域的“抗阻塞”，知识背景的跨度让付澍在接下来的研究中面对的不止是一些“磕磕碰碰”那么简单。付澍经常会为理解新领域里的一个新概念而查阅文献到深夜， 然而凭着骨子里的一股子“劲儿”，在导师的悉心指导下，付澍迅速掌握了<span>WDM</span>网络中的前沿知识和最新研究动态，面对因研究饱和而被许多学者“唱衰”的光波复用技术，付澍沉下心来，通过反复试验，在不到半年的时间里即提出了“<span>WDM</span>网络中具有时延保障的动态自适应网络<span>ROUTING</span>方案”，该方案通过巧妙的路由设计实现了网络中的时延和能耗折中及优化。这套方案属<span>WDM</span>网络内的首创，其成果得到<span>WDM</span>领域内权威人士来自意大利米兰理工大学<span>Achille Pattavina</span>教授和日本未来大学姜晓鸿教授的好评，这项工作最终发表在了<span>IEEE</span><span>汇刊中<span>JCR</span>分区一区的通信领域顶级刊物</span><span>IEEE Journal on Selected Areas in Communications</span>（<span>JSAC</span>）上。
+</p>
+<h2 style="text-align: center;line-height: 150%">
+    <strong><span style="font-family:宋体">留洋海外，在更为广阔的天地里继续逐梦</span></strong>
+</h2>
+<p style="text-indent: 32px;line-height: 150%">
+    付澍在无线与有线领域的学术积累和对通信网络的理解很快得到了加拿大滑铁卢大学的<span>IEEE fellow Sherman</span>教授的赞赏，在<span>2014-2015</span>年度，付澍受国家<span>CSC</span>基金委资助远赴加拿大滑铁卢大学<span>Sherman</span>教授的<span>BBCR</span>组博士联合培养一年。
+</p>
+<p style="text-indent: 32px;line-height: 150%">
+    在加拿大的时光里，勤奋依然是付澍恪守的信条。从早到晚，他的时间几乎都泡在滑铁卢大学的实验室和图书馆里。滑铁卢大学深厚的学术底蕴和创新精神使得这所大学仅建校五十余年就成为加拿大学府中的“清华”，通信计算机领域的诸多划时代技术，如干扰对齐，<span>L-MIMO</span>等的创始者都曾在这里工作或求学过。这里自由的学术气息和启发式的教学研究模式让他的眼界和研究视野都大大的开阔。<span>Sherman</span>教授对付澍说不管以前取得过什么样的成绩，面对学术研究首先需要的是“沉下心来的积累和持续性的努力”。从夏日里的烈日炎炎到加拿大零下四十几度的寒冬，位于尼亚加拉大瀑布附近的这所学校带给付澍的除了更上一层楼的视野外，更是一种“如夏日般烈日炎炎的激情和冬日里大瀑布般宁静的心境”，付澍如是说。在加拿大的时光里付澍认识了来自各个领域的学术达人，在于他们的交流中学习到了各种不一样的思想。与此同时，付澍的学术研究也有了阶段性的成果，在跨网络领域，他的跨网络能效研究走在了业界前列，过去深厚的学术知识积累和对研究方法的掌控，让他在滑铁卢大学很快找到了有相似学术经历的伙伴，目前他的最新研究成果“<a name="_Hlk416719712" href="http://"></a><a name="OLE_LINK66" href="http://"></a><a name="OLE_LINK65" href="http://"></a><a name="_Hlk414669959" href="http://"></a><a name="OLE_LINK112" href="http://"></a><a name="OLE_LINK111" href="http://"><span>Cross-Networks Energy Efficiency Tradeoff: from Wired Networks to Wireless Networks</span></a>”已投往<span>IEEE Journal on Selected Areas in Communications</span>（<span>JSAC</span>）。
+</p>
+<h2 style="text-align: center;line-height: 150%">
+    <strong><span style="font-family:宋体">行者无疆，感恩与收获同样重要</span></strong>
+</h2>
+<p style="text-indent: 32px;line-height: 150%">
+    “勤奋不应该是一种手段而更应当是一种品质”。学术的道路永远没有终点，付澍是一个有自己想法且敢想敢干的人，进入博士阶段后，他的作息一直很规律。宿舍的书架上堆满了各种文献和书籍。他反对日夜颠倒的作息方式，他认为研究是一个循序渐进的过程没有捷径可走。
+</p>
+<p style="text-indent: 32px;line-height: 150%">
+    “一路走来，有太多的人需要感谢，有恩师的关怀和指点，有同学的鼓励与交流。”付澍说道，自己是一个喜欢“正能量”的人，也喜欢将这种“正能量”带给身边的人，因此也总能与他人保持良好的沟通和互助。
+</p>
+<p style="text-indent: 32px;line-height: 150%">
+    从<span>2012</span>年至今，付澍受邀担任<span>IEEE communication magazine, TWC</span>等<span>SCI</span>期刊评审人，并在<span>JSAC</span>，<span>TWC</span>，<span>TVT</span>等通信领域顶级<span>SCI</span>学术期刊和<span>ICC</span>等<span>IEEE</span>高级会议上发表论文近十篇，另有三篇<span>SCI</span>期刊论文在审：其中<span>SCI</span>论文<span>5</span>篇（<span>JCR</span>分区：一区<span>1</span>篇；二区<span>2</span>篇；三区<span>2</span>篇）。论文发表<span>SCI</span>期刊<span>5</span>年平均影响因子最高<span>3.822</span>，总的影响因子为<span>12.738</span>。博士期间他还获得了三项国家专利和两项军工专利。
+</p>
+<p style="text-indent: 32px;line-height: 150%">
+    两次国家奖学金，唐立新奖学金，学业一等奖学金，面对这些荣誉，他认为荣誉固然是对自己过去工作的一种肯定，但更重要的是未来学术道路的延续性和发展。付澍说“面对未来，自己秉承着行者无疆的情怀，对学术研究的热情和追求没有止尽！”
+</p>
+<p>
+    <br/>
+</p>

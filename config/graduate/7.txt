@@ -1,0 +1,135 @@
+<h3><strong>一、个人简介与经历</strong></h3>
+
+<p>　　黄武煌，男，中共党员，1983年11月出生，福建三明人，现为电子科技大学自动化工程学院测试计量技术及仪器专业2010级博士研究生，师从王厚军教授。2007年考入我校检测技术与自动化装置专业公费攻读硕士研究生，2010年开始攻读测试计量技术及仪器专业博士学位，长期从事时域测试技术及仪器的研究。2013年7月至2014年9月出访德国凯泽斯劳滕大学和德国人工智能研究所，跟随嵌入式智能系统领域著名专家Paul Lukowicz教授，从事无线传感系统的研究与开发工作。2015年6月获得了电子科技大学特聘副研究员的入校资格。</p>
+
+<h3><strong>二、个人宣言：</strong></h3>
+
+<p>　　阳光心态面对生活，脚踏实地对待科研。</p>
+
+<p>&nbsp;</p>
+
+<h3><strong>三、文体获奖与学生工作：</strong></h3>
+
+<p>　　2011~2013连续三年获得博士研究生学业奖学金一等奖</p>
+
+<p>　　2013.02英飞凌专项奖学金</p>
+
+<p>　　2011.11九洲专项奖学金</p>
+
+<p>　　2010.06校优秀硕士毕业论文、校优秀毕业生、四川省优秀大学毕业生</p>
+
+<p>　　2009.11优秀研究生一等奖学金、华润专项奖学金</p>
+
+<p>　　2008.11优秀研究生二等奖学金、优秀研究生学生干部</p>
+
+<p>　　2008.04&ldquo;研究生羽毛球赛&rdquo;男子单打第三名、双打第四名</p>
+
+<p>　　2008.01&ldquo;研究生课外艺术作品展&rdquo;书法三等奖</p>
+
+<p>　　2012年上半年担任研究生课程&ldquo;精密测控与系统&rdquo;助教</p>
+
+<p>　　2007~2008年度担任了院研究生会文体部部长、教务科助管和副班长工作</p>
+
+<p>　　2010~2015年积极参与培养教研室硕士研究生，已达10余名</p>
+
+<h3><strong>四、研究推进：</strong></h3>
+
+<ol>
+	<li>系统采样率提升的推进：突破模数转换单芯片的采样率限制，提出了并行失配误差校正和多器件数据同步方法，将系统采样率提升数倍至20GSPS，达到了国内领先水平。</li>
+	<li>大容量存储技术的推进：提出了多幅无缝录制和快速搜索分析方法的硬件协处理技术，极大地扩展了超高速波形数据的存储空间和信息观测能力，达到了国际先进水平。</li>
+	<li>系统波形捕获率的推进：提出了立体交叉的并行流水技术，将三维映射的波形捕获率指标提升至203万幅/秒，达到了国际领先水平。</li>
+</ol>
+
+<p>　　以上研究推进实现了从技术预研到整机仪器的设计定型，成果通过了相关部门和企业的验收。其中部分产品实现了万台量产，并远销欧美国家，使得我国从电子测量仪器的进口国跃升为出口国。以这些技术为基础研制出了宽带极高波形捕获率数字存储示波器，并通过了2012年四川省科技成果鉴定。以此为核心支撑，获得了2013年国家技术发明奖二等奖&ldquo;宽带复杂信号实时捕获与合成技术&rdquo;。</p>
+
+<ol>
+	<li>激光脉冲波形采样精度的提升：提出了基于双脉冲沿并行测量的波形序列精确定位技术，极大提升了采样数据反演分析的精确度，使得激光的复杂目标成像与特征提取精度达1.83cm，达到国际先进水平。</li>
+</ol>
+
+<p>根据该技术所研制的激光脉冲全波形采集系统已交付给上海技术物理研究所，应用于&ldquo;探月工程二期&rdquo;项目的月球表面3D成像系统中，获得了应用单位的好评，且在EI期刊仪器仪表学报上发表论文1篇。</p>
+
+<ol>
+	<li>无线智能传感技术的推进：在德国人工智能研究所开发了一款多通道高精度数据采集模块，实现了在线无线数据传输与显示功能，并应用于微振动检测、心电脑电信息获取和智能桌面识别，取得了较高的信号获取精度, 且在普适计算领域顶级会议PerCom2014和ICMEAE2014上共发表了论文2篇。</li>
+</ol>
+
+<p>&nbsp;</p>
+
+<h3><strong>五、科研获奖与鉴定：</strong></h3>
+
+<p>2011年1月通过了总装&ldquo;6G采样率XX存储示波器&rdquo;设计定型鉴定。</p>
+
+<p>2011年1月获得了教育部科技进步一等奖（有证书，排名13），&ldquo;宽带信号实时捕获关键技术&rdquo;。</p>
+
+<p>2012年12月通过了四川省科技成果鉴定&ldquo;宽带极高波形捕获率数字存储示波器&rdquo;。</p>
+
+<p>2013年12月为国家技术发明奖二等奖&ldquo;宽带复杂信号实时捕获与合成技术&rdquo;提供核心支撑。</p>
+
+<p>2014年1月通过了总装&ldquo;20G采样率XX三维示波器&rdquo;设计定型鉴定。</p>
+
+<p>2015年12月即将通过总装&ldquo;XX荧光示波器系列&rdquo;设计定型鉴定。</p>
+
+<p>&nbsp;</p>
+
+<p><strong>六、科研成果：</strong></p>
+
+<p>　　在科研工作中，始终注重所从事研究方向的创新性与应用性，并致力于发表高水平论文。在仪器学科顶级期刊《REVIEW OF SCIENTIFIC INSTRUMENTS》等发表了论文共9篇，其中第一作者发表的有5篇，SCI检索的有2篇、EI/ISTP检索的有3篇。申请的专利共16项，其中第一发明人授权的国家专利3项、美国授权专利1项，且获得了转让费110万元。</p>
+
+<p>　　参与的科研项目共17项，包括了自然科学基金、总装预研、型号及横向研究所、公司等项目，总经费达5000余万元，其中以第二主研人主持型号项目1项，作为主研人参与项目11项、包括重大项目3项。已结题的项目都顺利通过了验收，其中部分产品实现了万台量产，并远销欧美国家，使得我国从电子测量仪器的进口国跃升为出口国。以所研制的6GSPS数字存储示波器为支撑的&ldquo;宽带信号实时捕获关键技术&rdquo;获得了2011年教育部科技进步一等奖。所研制的宽带极高波形捕获率数字存储示波器通过了2012年四川省科技成果鉴定。以此为核心支撑的&ldquo;宽带复杂信号实时捕获与合成技术&rdquo;，获得了2013年国家技术发明奖二等奖。</p>
+
+<p>　　在激光成像和无线传感领域也有较深的研究。所开发的激光脉冲的全波形采集模块已应用于&ldquo;探月工程二期&rdquo;项目的月球表面3D成像系统中，精度可达1.83cm，获得了应用单位的好评，且在EI期刊仪器仪表学报上发表论文1篇。在德国人工智能研究所开发的多通道高精度无线数据采集模块，已应用于无线传感网络中实现心电脑电信号检测、微振动测试、智能桌面的静物和动作识别，取得了较高的信号获取精度, 且在普适计算领域顶级会议PerCom2015和ICMEAE2014上共发表了论文2篇。</p>
+
+<p><strong>1. </strong><strong>论文：</strong></p>
+
+<p>&nbsp;[1] <strong>Wuhuang Huang</strong>, Houjun Wang, Shulin Tian, et al. Analysis on multiple-component synchronization of ultra-fast time-interleaved analog-to-digital conversion systems and its novel parameterized hardware solution [J]. Review of Scientific Instruments, 2014, 85(10): 105107. (<strong>SCI</strong>: 000344594200091)</p>
+
+<p>[2] <strong>Wuhuang Huang</strong>, Houjun Wang, Peng Ye, et al. Novel Sifting-based Solution for Multiple-Converter Synchronization of Ultra-fast TIADC Systems [J]. IEICE Electronics Express, 2015, 12(16): 20150585. (<strong>SCI</strong>: 000361982400008)</p>
+
+<p>[3] <strong>黄武煌</strong>, 王厚军, 叶芃. 一种高速全波形采集与高精度定位技术研究 [J]. 仪器仪表学报, 2013, 34(1): 73-9. (<strong>EI</strong>: 20131016087709)</p>
+
+<p>[4] <strong>Wuhuang Huang</strong>, Houjun Wang, Shulin Tian, et al. Analysis and implementation of data synchronization in time-interleaved ADCs system [C]. Proceedings of the Electronic Measurement &amp; Instruments (ICEMI), 2013 IEEE 11th International Conference on, Harbin, China, F 16-19 Aug. 2013, 2013. (<strong>EI</strong>: 20141217471649)</p>
+
+<p>[5] <strong>Wuhuang Huang</strong>, Matthias Kreil, Jingyuan Cheng, et al. Development of Compact Versatile Acquisition Platform for Wireless Sensing Applications [C]. Proceedings of the Mechatronics, Electronics and Automation Engineering (ICMEAE), 2014 International Conference on, Lijiang, China, Aug.15, 2014. //Applied Mechanics and Materials, 2014, 654: 274-80. (<strong>ISTP</strong>: 000348131600056)</p>
+
+<p>[6] Peng Ye, Huiqin Pan, Hao Zeng, Min Li, <strong>Wuhuang Huang</strong>. A self-adaptive frequency response compensation method for a TIADC system [J]. Mathematical Problems in Engineering, 2013, 2013: 7. (<strong>SCI</strong>: 000317762700001)</p>
+
+<p>[7] Bo Zhou, Jingyuan Cheng, M. Sundholm, A.Reiss, <strong>Wuhuang Huang</strong>, A O.mft, P. Lukowicz. Smart table surface: A novel approach to pervasive dining monitoring [C]. Proceedings of the Pervasive Computing and Communications (PerCom), 2015 IEEE International Conference on, F, 2015, IEEE. (<strong>EI</strong>: 20154001331393)</p>
+
+<p>[8] Hao Zeng, Huiqin Pan, <strong>Wuhuang Huang</strong>. Key technology design of 6 GSPS high-speed digital storage oscilloscope [C]. Proceedings of the Electronic Measurement &amp; Instruments (ICEMI), 2013 IEEE 11th International Conference on, F, 2013, IEEE. (<strong>EI</strong>: 20141217471730)</p>
+
+<p>[9] Kuojun Yang, Shulin Tian, Jiali Shi, <strong>Wuhuang Huang</strong>, Peng Ye. Timing skew calibration method for TIADC Based 20GSPS Digital storage oscilloscope [J]. Journal of Circuits, Systems and Computers. (<strong>SCI</strong>源刊, 已录用)</p>
+
+<p><strong>2. </strong><strong>专利：</strong></p>
+
+<p>[1] <strong>黄武煌</strong>, 王厚军, 叶芃. 一种具有高精度时间标记的数据采集系统 [P]. 2012.09, CN201210358352 (已授权)</p>
+
+<p>[2] <strong>黄武煌</strong>, 叶芃, 田书林. 一种多ADC数据采集系统的数据同步识别装置 [P]. 2011.11, CN201110389013 (已授权)</p>
+
+<p>[3] <strong>Wuhuang Huang</strong>, Kuojun Yang, Houjun Wang, Jun Jiang, Hao Zeng, Duyu Qiu, Peng Ye, Qinchuan Zhang, Shulin Tian. A METHOD FOR FULL-DIGITAL RANDOM SAMPLING [P]. 2015.01, US14/584,599 (美国专利, 已授权)</p>
+
+<p>[4] <strong>黄武煌</strong>, 杨扩军, 邱渡裕, 叶芃, 李世龙, 汤晓智, 朱俊霏. 一种触发点快速定位装置 [P]. 2013.02, CN201310062851 (已授权)</p>
+
+<p>[5] <strong>黄武煌</strong>, 王厚军, 叶芃, 田书林, 曾浩, 邱渡裕, 蒋俊, 张沁川, 杨扩军. 一种全数字化的随机采样方法 [P]. 2014.11, CN201410692582 (已公开)</p>
+
+<p>[6] 杨扩军, <strong>黄武煌</strong>, 邱渡裕, 张沁川, 吴凤曦. 一种用于校准并行采集系统数据拼合顺序的方法 [P]. 2012.09, CN201210361863 (已授权)</p>
+
+<p>[7] 杨扩军, <strong>黄武煌</strong>, 曾浩, 蒋俊, 李世龙. 一种基于数据监听的FPGA-DSP高速数据交换方法[P]. 2012.09, CN201210357829 (已授权)</p>
+
+<p>[8] 曾浩, 叶芃, 宋鹏飞, <strong>黄武煌</strong>, 邱渡裕, 向川云.; 一种高速海量数据采集存储系统的硬件协处理装置 [P]. 2011.03, CN201110076086 (已授权)</p>
+
+<p>[9] 叶芃, 张沁川, 潘卉青, <strong>黄武煌</strong>, 杜兴批. 一种数字三维示波器的波形数据处理方法 [P]. 2012.12, CN201210566383 (已公开)</p>
+
+<p>[10] 曾浩, 杨扩军, <strong>黄武煌</strong>, 邱渡裕, 周镱. 一种具有串行协议触发和解码功能的数字示波器 [P]. 2013.05, CN201310207335 (已公开)</p>
+
+<p>[11] 邱渡裕, 吴佳瑜, 叶芃, 程孟, 曾浩, 谭峰, 杨扩军, <strong>黄武煌</strong>, 魏骐, 郭连平. 一种具有温度补偿功的高分辨率时间间隔测量装置 [P]. 2014.12, CN201410747895 (已公开)</p>
+
+<p>[12] 邱渡裕, 叶芃, 谭峰, 郭连平, 程孟, 曾浩, 杨扩军, <strong>黄武煌</strong>. 一种具有自动校正功能的高分辨率时间间隔测量装置 [P]. 2014.12, CN201410763285 (已公开)</p>
+
+<p>[13] 张沁川, <strong>黄武煌</strong>, 杨扩军, 郭连平, 蒋俊, 王翔辉. 数字三维采集波形的矢量映射方法 [P]. 2015.04, CN201510214100 (已公开)</p>
+
+<p>[14] 张沁川, 邱渡裕, <strong>黄武煌</strong>, 蒋俊, 赵勇, 范加强. 三维波形数据的异常检测方法 [P]. 2015.04, CN104931754 (已公开)</p>
+
+<p>[15] 谭峰, 叶芃, 邱渡裕, <strong>黄武煌</strong>, 曾浩, 蒋俊, 杨扩军, 张沁川, 潘卉青. 一种高品质因数QCM传感器 [P]. 2015.05, CN201510236324 (已公开)</p>
+
+<p>[16] 谭峰, 邱渡裕, 叶芃, <strong>黄武煌</strong>, 曾浩, 蒋俊, 郭连平, 赵勇, 潘卉青. 一种高品质因数高质量灵敏度的QCM传感器 [P]. 2015.05, CN201510237773 (已公开)</p>
+
+<p>&nbsp;</p>
