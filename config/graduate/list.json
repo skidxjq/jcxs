@@ -15,6 +15,22 @@
     "path":"./image/2.png",
     "gender":"male",
     "order":4
+  },{
+  "id":13,
+  "name":"刘丹",
+  "school":"外国语学院",
+  "path":"./image/13.png",
+  "gender":"female",
+  "order":6
+},
+  {
+    "id":14,
+    "name":"穆宣丞",
+    "school":"马克思学院",
+    "path":"./image/14.png",
+    "words":"",
+    "gender":"female",
+    "order":15
   },
   {
     "id":3,
@@ -100,23 +116,7 @@
     "gender":"male",
     "order":12
   },
-  {
-    "id":13,
-    "name":"刘丹",
-    "school":"外国语学院",
-    "path":"./image/13.png",
-    "gender":"female",
-    "order":6
-  },
-  {
-    "id":14,
-    "name":"穆宣丞",
-    "school":"马克思学院",
-    "path":"./image/14.png",
-    "words":"",
-    "gender":"female",
-    "order":15
-  },
+
   {
     "id":15,
     "name":"陈国璋",

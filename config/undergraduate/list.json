@@ -16,6 +16,20 @@
   "order":9
 
 },{
+  "id":10,
+  "name":"朱清",
+  "school":"通信学院",
+  "path":"images/telecom.png",
+  "gender":"female",
+  "order":6
+},{
+  "id":11,
+  "name":"刘路雅惠",
+  "school":"外国语学院",
+  "path":"images/english.png",
+  "gender":"female",
+  "order":6
+},{
   "id":3,
   "name":"梁栋",
   "school":"航空航天学院",
@@ -74,20 +88,6 @@
   "gender":"male",
   "order":4
 
-},{
-  "id":10,
-  "name":"朱清",
-  "school":"通信学院",
-  "path":"images/telecom.png",
-  "gender":"female",
-  "order":6
-},{
-  "id":11,
-  "name":"刘路雅惠",
-  "school":"外国语学院",
-  "path":"images/english.png",
-  "gender":"female",
-  "order":6
 },{
   "id":12,
   "name":"郑子隆",
